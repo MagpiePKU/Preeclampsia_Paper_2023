@@ -1,5 +1,5 @@
 # Preeclampsia_Paper_2023
-Codes for preeclampsia single cell study paper, 2023
+Source code for preeclampsia single cell study paper, 2023. Euler Technology.
 
 Note:
 1. The source data is deposited in zenodo at: https://zenodo.org/record/8079129
